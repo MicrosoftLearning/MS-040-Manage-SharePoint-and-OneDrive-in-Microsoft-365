@@ -71,11 +71,11 @@ Once you launch the VM, a free trial tenant will be made available to you. The f
 
 4.  In the Term store page, select **Edit** under Admins section.
 
-    ![The page to edit Term store admins](/media/M05/image1.png)
+    ![The page to edit Term store admins](media/M05/image1.png)
 
 5.  In the Edit term store admins window, enter **<admin@YourTenant.onmicrosoft.com>.**
 
-    ![prompt window to edit term store admins](/media/M05/image2.png)
+    ![prompt window to edit term store admins](media/M05/image2.png)
 
 6.  Select **Save.**
 
@@ -98,7 +98,7 @@ You have successfully added the admin account to the term store administrator ro
 
 7.  Select **Import term set** from the prompt window.
 
-    ![prompt window of a term group](/media/M05/image3.png)
+    ![prompt window of a term group](media/M05/image3.png)
 
 8.  In the Import new term set window, select **Browse** and select the **ImportTermSet.csv** file in the desktop.
 
@@ -130,7 +130,7 @@ Now we will apply this new loaded term set to a document library.
     
       - Leave other settings as default.
 
-        ![Select the term set Politial Geography](/media/M05/image4.png)
+        ![Select the term set Politial Geography](media/M05/image4.png)
 
 You have successfully created a Managed Metadata column named Location.
 
@@ -150,13 +150,13 @@ You have successfully created a Managed Metadata column named Location.
 
 7.  In the prompt window, select **More \> Properties.**
 
-    ![Edit the properties of a item in the document library](/media/M05/image5.png)
+    ![Edit the properties of a item in the document library](media/M05/image5.png)
 
 8.  In the new window, select **Enter value here** under **Location.**
 
 9.  Enter **Town** in the text box and resolve the term tag. You will notice the message **Saving…** below the text.
 
-    ![Edit the property of a document](/media/M05/image6.png)
+    ![Edit the property of a document](media/M05/image6.png)
 
 You have successfully uploaded a word document and update the value of Location column to Town.
 
