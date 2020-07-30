@@ -114,7 +114,7 @@ Now we will apply this new loaded term set to a document library.
 
 1.  Log on to **LON-CL1** virtual machine as the local administrator (Adatum\\administrator).
 
-2.  Open **Edge** and browse to the Aurora project site (https://YourTenant.sharepoint.com/sites/ProjectAurora) with your Microsoft 365 admin credential.
+2.  Open **Edge** and browse to the Aurora project site (https://YourTenant.sharepoint.com/sites/Aurora) with your Microsoft 365 admin credential.
 
 3.  Select **Documents** in the left pane.
 
@@ -138,7 +138,7 @@ You have successfully created a Managed Metadata column named Location.
 
 1.  Log on to **LON-CL1** virtual machine as the local administrator (Adatum\\administrator).
 
-2.  Open **Edge** and browse to the document library of the Aurora project site (https://YourTenant.sharepoint.com/sites/ProjectAurora/Shared%20Documents/Forms/AllItems.aspx) with your Microsoft 365 admin credential.
+2.  Open **Edge** and browse to the document library of the Aurora project site (https://YourTenant.sharepoint.com/sites/Aurora/Shared%20Documents/Forms/AllItems.aspx) with your Microsoft 365 admin credential.
 
 3.  Select **Upload \> File** in the ribbon.
 
