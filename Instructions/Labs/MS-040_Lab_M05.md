@@ -124,7 +124,7 @@ Now we will apply this new loaded term set to a document library.
     
       - **Column name:** Location
     
-      - **Column type:** Managed Metadat
+      - **Column type:** Managed Metadata
     
       - **Term Set settings**: Expand the term tree and select **Political geography** term set.
     
